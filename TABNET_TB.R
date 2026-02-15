@@ -566,7 +566,7 @@ gprop_ppl <- ggplot( Base_geral,
     legend.position = "bottom",
     plot.title = element_text(size = 8, hjust = 0.4),
     axis.text.x = element_text(size = 8),
-    axis.text.y = element_text(size = 6),
+    axis.text.y = element_text(size = 5),
     strip.text = element_text(size = 8))
 # Salvar o gráfico em SVG
 ggsave("Graficos/gprop_ppl.svg", plot = gprop_ppl, width = 6, height = 6, dpi = 300, device = "svg")
