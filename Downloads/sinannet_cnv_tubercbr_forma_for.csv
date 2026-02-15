@@ -1,0 +1,46 @@
+TUBERCULOSE - Casos confirmados notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por Forma e Ano Notificação
+Município de residência: 230440 FORTALEZA
+Período:2006-2024
+"Forma";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"2023";"2024";"2025";"Total"
+"Ign/Branco";3;-;2;1;1;-;-;-;-;1;-;-;-;-;2;-;-;-;2;-;12
+"PULMONAR";1572;1665;1809;1953;1795;1718;1704;1555;1489;1579;1661;1755;1788;1802;1513;1476;1786;1875;1814;107;32416
+"EXTRAPULMONAR";217;219;249;256;258;257;275;261;248;230;263;269;285;282;225;228;241;247;259;10;4779
+"PULMONAR + EXTRAPULMONAR";34;42;41;42;37;40;35;38;39;42;35;46;53;55;50;71;98;88;124;9;1019
+"Total";1826;1926;2101;2252;2091;2015;2014;1854;1776;1852;1959;2070;2126;2139;1790;1775;2125;2210;2199;126;38226
+ Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net 
+ Notas:
+ 
+ Excluídos os registros encerrados com mudança de diagnóstico.
+ Períodos disponíveis - Correspondem aos anos de diagnóstico dos casos (até 2024).
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável de interesse,
+		e todos os posteriores até o ano atual (para incluir casos notificados com atraso) e em "Seleções Disponíveis"
+		assinale os anos do diagnóstico: - Ex. para tabular o nº de casos diagnosticados em 2007 segundo UF de residência
+		selecione: na linha a "UF de residência" na Coluna a variável "Ano do diagnóstico" em Períodos disponíveis 2007
+		até o ano atual em Seleções o "Ano do diagnóstico" de 2007.
+ Para cálculo da incidência selecione o local de residência e as seguintes categorias da variável "Tipo de entrada":
+		caso novo, não sabe e pós óbito.
+ A variável "Beneficiário de programa de transferência de renda do governo" não contém dados do Estado de São Paulo (SP).
+		Quanto a variável "Terapia antirretroviral durante o tratamento da TB", os dados do estado de SP foram inseridos
+		a partir do segundo semestre de 2016.
+ Não é possível calcular indicadores relacionados aos contatos de tuberculose.
+ Em 2014, foram incluídas as seguintes variáveis no Sinan Net (Tuberculose): populações especiais (população privada de
+		liberdade, população em situação de rua, profissional de saúde e imigrante), doenças e agravos associados (uso de drogas
+		ilícitas e tabagismo), beneficiário de programa de transferência de renda do governo, terapia antirretroviral durante o
+		tratamento para a TB, teste molecular rápido TB (TRM-TB) e teste de sensibilidade; as categorias: pós-óbito na variável
+		tipo de entrada; e as categorias: mudança de esquema, falência e abandono primário na variável situação de encerramento.
+		Por conta disso, não há informações para essas variáveis em anos anteriores.
+ A variável "institucionalizado" foi descontinuada em 2015. Portanto, para análise referente à população privada de
+		liberdade após esse período, utilizar a variável "PPL" (população privada de liberdade).
+ Para informações detalhadas sobre o Sinan – Tuberculose e sobre as análises de indicadores epidemiológicos e operacionais
+		da tuberculose, acessar o link: http://portalsinan.saude.gov.br/tuberculose
+ Em caso de dúvidas, encaminhar e-mail para: tuberculose@saude.gov.br
+ Dados de 2001 a 2019 estão finalizados.
+ Dados de 2019 passaram por correção em setembro/2025.
+ Dados de 2020 a 2024 atualizados em setembro/2025, sujeitos à revisão.
+ Dados a partir de 2020 referentes ao estado do Espírito Santo são oriundos do Sistema de Informação e-SUS VS, em uso pelo
+		estado desde janeiro de 2020.
+ Dados referentes ao estado de São Paulo são oriundos do Sistema de Controle de Pacientes com Tuberculose TBWEB.
+ Dados disponibilizados no TABNET em 10/2025, após homologação da Coordenação Geral de Vigilância da Tuberculose, Micoses
+		Endêmicas e Micobactérias não Tuberculosas /CGTM/SVSA
+ 
