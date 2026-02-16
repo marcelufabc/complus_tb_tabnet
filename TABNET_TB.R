@@ -2,16 +2,12 @@
 rm(list = ls()) # clear the workspace
 
 #Lendo pacotes necessários
-library(survey)
-library(ggplot2)
-library(dplyr)
-library(tictoc)
-library(foreign)
-library(forcats)
 library(tidyverse)
-library(readxl) # Trabalhar com excel
+library(readxl)
 library(writexl)
 library(reshape2)
+library(forcats)
+
 
 # Get and set working directory
 #setwd("~/Dropbox/Doutorado UFABC/Tese/Artigo_1")
