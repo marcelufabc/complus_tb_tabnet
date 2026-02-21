@@ -10,8 +10,7 @@ library(forcats)
 
 
 # Get and set working directory
-#setwd("~/Dropbox/Doutorado UFABC/Tese/Artigo_1")
-setwd("C:/Users/makaw/Meus_Documentos/CEBRAP/Marcel/Dados/TABNET/TABNET_DATASUS")
+setwd("C:/Users/makaw/Meus_Documentos/CEBRAP/Marcel/Dados/TABNET")
 
 # Carregar bases
 
